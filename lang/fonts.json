@@ -1,0 +1,127 @@
+[
+    {
+        "name": "NotoSansThaiCond",
+        "variants": {
+            "001": {
+                "ttf": "NotoSansThaiCond-Light.ttf",
+                "height": 11,
+                "offset": 3,
+                "bold": false
+            },
+            "002": {
+                "ttf": "NotoSansThaiCond-Regular.ttf",
+                "height": 11,
+                "offset": 3,
+                "bold": false
+            },
+            "003": {
+                "ttf": "NotoSansThaiCond-Light.ttf",
+                "height": 15,
+                "offset": 3,
+                "bold": false
+            },
+            "004": {
+                "ttf": "NotoSansThaiCond-Regular.ttf",
+                "height": 14,
+                "offset": 4,
+                "bold": false
+            },
+            "005": {
+                "ttf": "NotoSansThaiCond-Light.ttf",
+                "height": 20,
+                "offset": 4,
+                "bold": false
+            },
+            "006": {
+                "ttf": "NotoSansThaiCond-Regular.ttf",
+                "height": 20,
+                "offset": 4,
+                "bold": false
+            },
+            "007": {
+                "ttf": "NotoSansThaiCond-Medium.ttf",
+                "height": 22,
+                "offset": 6,
+                "bold": false
+            },
+            "008": {
+                "ttf": "NotoSansThaiCond-SemiBold.ttf",
+                "height": 22,
+                "offset": 6,
+                "bold": false
+            },
+            "009": {
+                "ttf": "NotoSansThaiCond-Medium.ttf",
+                "height": 27,
+                "offset": 9,
+                "bold": false
+            },
+            "010": {
+                "ttf": "NotoSansThaiCond-SemiBold.ttf",
+                "height": 27,
+                "offset": 9,
+                "bold": false
+            },
+            "011": {
+                "ttf": "NotoSansThaiCond-Light.ttf",
+                "height": 15,
+                "offset": 3,
+                "bold": false
+            },
+            "012": {
+                "ttf": "NotoSansThaiCond-Bold.ttf",
+                "height": 23,
+                "offset": 7,
+                "bold": false
+            },
+            "013": {
+                "ttf": "NotoSansThaiCond-Light.ttf",
+                "height": 25,
+                "offset": 9,
+                "bold": false
+            },
+            "014": {
+                "ttf": "NotoSansThaiCond-Medium.ttf",
+                "height": 25,
+                "offset": 9,
+                "bold": false
+            },
+            "015": {
+                "ttf": "NotoSansThaiCond-Bold.ttf",
+                "height": 32,
+                "offset": 10,
+                "bold": false
+            },
+            "016": {
+                "ttf": "NotoSansThaiCond-Light.ttf",
+                "height": 32,
+                "offset": 10,
+                "bold": false
+            },
+            "017": {
+                "ttf": "NotoSansThaiCond-Medium.ttf",
+                "height": 32,
+                "offset": 10,
+                "bold": false
+            },
+            "018": {
+                "ttf": "NotoSansThaiCond-Regular.ttf",
+                "height": 14,
+                "offset": 7,
+                "bold": false
+            },
+            "019": {
+                "ttf": "NotoSansThaiCond-Bold.ttf",
+                "height": 38,
+                "offset": 11,
+                "bold": false
+            },
+            "020": {
+                "ttf": "NotoSansThaiCond-Bold.ttf",
+                "height": 22,
+                "offset": 6,
+                "bold": false
+            }
+        }
+    }
+]
